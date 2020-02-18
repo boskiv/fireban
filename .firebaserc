@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fireban-f1870": {
+      "hosting": {
+        "fireban": [
+          "fireban-f1870"
+        ]
+      }
+    }
+  }
+}
